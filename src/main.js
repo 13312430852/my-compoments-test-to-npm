@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import simpleButton from './simpleButton/index'
+import simpleButton from './simpleButton/index.js'
+
 
 Vue.use(simpleButton)
 
